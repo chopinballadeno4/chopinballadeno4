@@ -1,4 +1,4 @@
-### 😄 I'm majoring computer engineering
+### 😄 I'm majoring computer engineering ⚡
 </br>
 </br>
 
