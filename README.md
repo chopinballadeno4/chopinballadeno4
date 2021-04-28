@@ -1,6 +1,6 @@
 ### I'm majoring computer engineering
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apichopinballadeno4anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?chopinballadeno4=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
