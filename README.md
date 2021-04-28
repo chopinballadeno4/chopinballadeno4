@@ -1,6 +1,6 @@
 ### 😄 I'm majoring computer engineering
-
-
+</br>
+</br>
 
 
 
@@ -9,12 +9,12 @@
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 
 
-
-
+</br>
+</br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopinballadeno4)](https://github.com/anuraghazra/github-readme-stats)
-
+</br>
 
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
