@@ -1,9 +1,12 @@
 ### 😄 I'm majoring computer engineering
 
 
+
+
+
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Python-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
-<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C++-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/></a>
+<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>
 
 
 
