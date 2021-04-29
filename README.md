@@ -4,8 +4,8 @@
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 </br>
-sub : <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C-FF4F64?style=flat-square&logo=C&logoColor=white"/></a>
 
+sub : <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C-FF4F64?style=flat-square&logo=C&logoColor=white"/></a>
 main :
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Java-FF3E00?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Python-43B02A?style=flat-square&logo=Python&logoColor=white"/></a> 
