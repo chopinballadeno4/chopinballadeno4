@@ -20,7 +20,7 @@
 -->
 ### 😄 I'm majoring computer engineering 
 
-##### qo98333@naver.com 
+#####    qo98333@naver.com 
 
 
 
