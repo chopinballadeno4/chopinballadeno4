@@ -1,3 +1,4 @@
+<!--
 ### 😄 I'm majoring computer engineering 
 </br>
 </br>
@@ -21,7 +22,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopinballadeno4)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
+
 **chopinballadeno4/chopinballadeno4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
