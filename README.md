@@ -18,7 +18,7 @@
 </br>
 
 -->
-### 😄 I'm majoring computer engineering 
+### 🌱 frontend developer 
 
 #####    qo98333@naver.com 
 
