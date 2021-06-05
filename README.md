@@ -12,7 +12,7 @@
 </br>
 </br>
 #####    qo98333@naver.com
--->
+
 ### ✨ frontend developer 
 
 
@@ -49,4 +49,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
