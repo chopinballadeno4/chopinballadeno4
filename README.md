@@ -4,14 +4,11 @@
 <br />
 <br />
 
-##### 🛠️ Tools
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<br />
-<br />
-<br />
 
-##### ✍️ Languages
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+
+    <!--
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd700?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <br />
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Java-ff4500?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -20,7 +17,7 @@
 <br />
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Ocaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/></a> 
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-
+-->
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopinballadeno4)](https://github.com/anuraghazra/github-readme-stats)
