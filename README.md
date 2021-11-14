@@ -2,15 +2,15 @@
 <br />
 <br />
 
-##### Tools
+##### 👨🏽‍💻 Tools
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <br />
 <br />
 <br />
 
-##### Languages
-<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffff00?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+##### 👨🏽‍💻 Languages
+<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd700?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Ocaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/></a>
 <br />
