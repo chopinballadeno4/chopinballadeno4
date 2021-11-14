@@ -13,11 +13,12 @@
 
 ##### ✍️ Languages
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd700?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
-<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Ocaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/></a>
 <br />
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Java-ff4500?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Python-43B02A?style=flat-square&logo=Python&logoColor=white"/></a> 
+<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
+<br />
+<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Ocaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/></a> 
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 
 <br />
