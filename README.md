@@ -1,11 +1,11 @@
 ###  Hi ! My name is sungmin bae 
 <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopinballadeno4)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 ##### 🔨 Tools
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopinballadeno4)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
 <br />
