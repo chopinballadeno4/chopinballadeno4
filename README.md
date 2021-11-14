@@ -1,17 +1,19 @@
 ### 😁 Hi ! My name is sungmin bae
 <br />
 <br />
+**Tools**
 <br />
-**Tools**<br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-
 <br />
-**Languages**<br />
-<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/JavaScript-A8B9CC?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<br />
+**Languages**
+<br />
+<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/JavaScript-#ffff00?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Ocaml-EC6813?style=flat-square&logo=Ocaml&logoColor=white"/></a>
-<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Java-FF3E00?style=flat-square&logo=Java&logoColor=white"/></a>
+<br />
+<a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Java-ff4500?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Python-43B02A?style=flat-square&logo=Python&logoColor=white"/></a> 
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 
