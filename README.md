@@ -7,8 +7,8 @@
 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-
-    <!--
+<br />
+<!--
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd700?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <br />
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/Java-ff4500?style=flat-square&logo=Java&logoColor=white"/></a>
