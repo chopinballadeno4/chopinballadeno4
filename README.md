@@ -1,8 +1,8 @@
-###😁 Hi ! My name is sungmin bae
+### 😁 Hi ! My name is sungmin bae
 
-**Languages :
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/react/react-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactnative/reactnative-ar21.svg"></code>
+**Languages : **
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 
 
 
