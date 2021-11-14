@@ -1,4 +1,15 @@
-##### ( 리액트 & 리액트 네이티브 공부중... )
+###😁 Hi ! My name is sungmin bae
+
+**Languages :
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/react/react-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactnative/reactnative-ar21.svg"></code>
+
+
+
+
+
+
+
 <!--
 </br>
 </br>
