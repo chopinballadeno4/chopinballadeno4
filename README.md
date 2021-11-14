@@ -1,6 +1,7 @@
 ### 😁 Hi ! My name is sungmin bae
 
-**Languages : **
+**Languages :**
+<br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 
