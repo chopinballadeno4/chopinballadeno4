@@ -6,9 +6,9 @@
 
 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="17%" src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg"></code>
+  <code><img width="17%" height="5" src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg"></code>
    
-  <code><img width="15%" height="10" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <br />
 <!--
 <a href="https://github.com/chopinballadeno4" target="_blank"><img src="https://img.shields.io/badge/JavaScript-ffd700?style=flat-square&logo=JavaScript&logoColor=white"/></a>
