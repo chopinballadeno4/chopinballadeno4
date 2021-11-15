@@ -6,8 +6,8 @@
 
 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" height="120%" src="https://github.com/chopinballadeno4/svg-logos/blob/master/svg/redux.svg"></code>
-   
+  <code><img width="15%" height="130%" src="https://github.com/chopinballadeno4/svg-logos/blob/master/svg/redux.svg"></code>
+    
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <br />
 <!--
