@@ -27,8 +27,6 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
 -->
-<br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chopinballadeno4)](https://github.com/anuraghazra/github-readme-stats)
 </div>    
     
 <!--
