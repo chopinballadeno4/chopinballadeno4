@@ -1,6 +1,6 @@
 <div align=center>
     ### 🏃🔥
-    ### [Notion](https://cedar-caraway-23a.notion.site/e5d15460a9ca4a4789c9cf95ffd67d07)
+   [Notion](https://cedar-caraway-23a.notion.site/e5d15460a9ca4a4789c9cf95ffd67d07)
 <br />
 <br />
 <div style="display: flex; align-items: flex-start;">
