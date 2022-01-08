@@ -1,8 +1,7 @@
 <div align="center">
     
-   ### Bae Sungmin
-   <!-- [Notion](https://cedar-caraway-23a.notion.site/e5d15460a9ca4a4789c9cf95ffd67d07) -->
-   <a href="https://cedar-caraway-23a.notion.site/e5d15460a9ca4a4789c9cf95ffd67d07" target="_blank"><img src="https://img.shields.io/badge/Notion-#000000?style=Notion&logo=Notion&logoColor=#000000"/></a>
+   #### Bae Sungmin
+   <a href="https://www.notion.so/codekodo"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://cedar-caraway-23a.notion.site/e5d15460a9ca4a4789c9cf95ffd67d07"/></a>&nbsp
 <br />
 <br />
 <div style="display: flex; align-items: flex-start;">
