@@ -1,6 +1,6 @@
 <div align="center">
     
-   #### Bae ungmin 👨‍💻
+   ##### 🍀
    <a href="https://cedar-caraway-23a.notion.site/e5d15460a9ca4a4789c9cf95ffd67d07"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://cedar-caraway-23a.notion.site/e5d15460a9ca4a4789c9cf95ffd67d07"/></a>
 <br />
 <br />
