@@ -20,12 +20,9 @@
     <br />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-    <!--
     <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-    -->
 </div>
-
 <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
@@ -35,10 +32,7 @@
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </div>
--->
-</div>    
-    
-<!--
+</div>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" height="130%" src="https://github.com/chopinballadeno4/svg-logos/blob/master/svg/redux.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
